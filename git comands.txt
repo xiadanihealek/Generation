@@ -10,3 +10,4 @@ git push -u origin master
 git pull origin master
 
 cd 
+hola amigoooos
